@@ -11,6 +11,6 @@ Features:
 - Business insights
 
 Tools Used:
-- Power BI
+- Power BI Desktop
 - Excel / CSV dataset
 
